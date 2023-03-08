@@ -1,0 +1,8 @@
+This is test for 
+get_next_line 
+12345 
+test done!
+This is test for 
+get_next_line 
+12345 
+test done!
